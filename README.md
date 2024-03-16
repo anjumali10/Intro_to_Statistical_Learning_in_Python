@@ -26,6 +26,6 @@ This repository is licensed under the [MIT License](LICENSE.md), which means you
 
 ## Feedback
 
-If you have any feedback, suggestions, or issues related to the exercises or this repository, please open an issue or contact us via email at [engr.anjumali@gmail.com].
+If you have any feedback, suggestions, or issues related to the exercises or this repository, please open an issue or contact us via email at [engr.anjumali@gmail.com](mailto:your-email@example.com).
 
 Happy learning and exploring statistical concepts with ISLP exercises! 📊✨
