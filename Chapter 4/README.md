@@ -1,4 +1,4 @@
-# Chapter 4: Classification
+# Chapter 4: ISLP Book Exercises
 
 ## Overview
 Welcome to the Chapter 4 exercises from the International Statistical Literacy Project (ISLP) book! This repository contains exercises designed to help you reinforce and apply the statistical concepts discussed in Chapter 4 of the ISLP book.
